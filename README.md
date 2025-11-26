@@ -46,7 +46,7 @@ Este projeto visa aplicar e consolidar os seguintes conceitos:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/seu-usuario/tutorpro-sql.git
+    git clone https://github.com/AfonsoBuarque/Modelagem_Banco_Dados_turma005.git
     cd tutorpro-sql
     ```
 
